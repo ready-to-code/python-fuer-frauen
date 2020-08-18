@@ -114,3 +114,12 @@ print(ind)
 inhalt.insert(3, 77) # 3 -> Index ; 77 -> hinzuzufeugender Wert
 print(inhalt)
 
+# Sortieren - aufsteigend
+inhalt = [5.5, 23, 45, 15.3, 22, 54]
+inhalt.sort()
+print(inhalt)
+
+# Sortieren - absteigend
+inhalt = [5.5, 23, 45, 15.3, 22, 54]
+inhalt.sort(reverse=True)
+print(inhalt)
