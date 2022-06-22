@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 jupyter = "==1.0.0"
-numpy = "==1.19.1"
+numpy = "==1.22.0"
 appnope = "==0.1.0"
 argon2-cffi = "==20.1.0"
 attrs = "==20.1.0"
